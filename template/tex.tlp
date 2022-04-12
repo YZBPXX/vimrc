@@ -1,0 +1,16 @@
+%!TEX program = xelatex
+\documentclass[10pt]{article}
+\usepackage{graphicx,amsmath,ctex}
+\usepackage{geometry}
+\geometry{left=2cm,right=2cm,top=2cm}
+\graphicspath{{./pictures}}
+\title{XXXX}
+\author{YZB}
+\begin{document} 
+\maketitle
+\newpage
+\tableofcontents
+\newpage
+\section{XX}
+\end{document}
+
