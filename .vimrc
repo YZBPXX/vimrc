@@ -1,3 +1,4 @@
+#
 syntax on
 colorscheme desert
 autocmd BufNewFile,BufRead *.py call Py()
